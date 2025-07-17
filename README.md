@@ -1,4 +1,4 @@
-# 💫 HI I'M ABIN C J:
+# HI I'M ABIN C J:
 Hi there! I'm ABIN C J, a Python (Django) developer. <br><br> Ask me about HTML, CSS, Bootstrap, JavaScript, mysql, postgresql, mongodb, Python,Django, React.js. <br><br> How to Reach me: abincjoseph77@gmail.com.
 
 ## 🌐 Socials:
