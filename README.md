@@ -1,5 +1,14 @@
 # HI I'M ABIN C J:
-Hi there! I'm ABIN C J, a Python (Django) developer. <br><br> Ask me about HTML, CSS, Bootstrap, JavaScript, mysql, postgresql, mongodb, Python,Django, React.js. <br><br> How to Reach me: abincjoseph77@gmail.com.
+Hi there!
+I'm ABIN C J, a Python (Django) Developer and dedicated, results-driven Full-Stack Web Developer with expertise in Python, Django, Django REST Framework, Node.js, Express.js, and React.js.
+
+I have a proven track record of designing and developing robust, scalable, and user-friendly web applications, including e-commerce platforms, learning management systems, and ATS-powered resume analyzers. Skilled in both backend development and responsive frontend design, I excel in creating seamless digital experiences that meet business goals and enhance user engagement.
+
+Ask me about: HTML, CSS, Bootstrap, JavaScript, MySQL, PostgreSQL, MongoDB, Python, Django, React.js.
+
+Passionate about problem-solving, code quality, and continuous learning, I am committed to delivering innovative and efficient solutions in every project I undertake.
+
+How to reach me: 📧 abincjoseph77@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abin-c-joseph-508261260) 
