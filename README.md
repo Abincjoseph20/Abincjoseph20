@@ -1,6 +1,11 @@
 # HI I'M ABIN C J:
 I am Abin C J, a dedicated and results-driven Full-Stack Web Developer with expertise in Python, Django, Django REST Framework and React.js. I have a proven track record of designing and developing robust, scalable, and user-friendly web applications, including e-commerce platforms, learning management systems, and ATS-powered resume analyzers. Skilled in both backend development and responsive frontend design, I excel in creating seamless digital experiences that meet business goals and enhance user engagement. Passionate about problem-solving, code quality, and continuous learning, I am committed to delivering innovative and efficient solutions in every project I undertake.
 
+
+How to reach me: 📧 abincjoseph77@gmail.com
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abin-c-joseph-508261260) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23769242/abin-c-joseph)
